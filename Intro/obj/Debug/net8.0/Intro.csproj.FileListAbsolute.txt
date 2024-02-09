@@ -1,0 +1,14 @@
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/bin/Debug/net8.0/Intro
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/bin/Debug/net8.0/Intro.deps.json
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/bin/Debug/net8.0/Intro.runtimeconfig.json
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/bin/Debug/net8.0/Intro.dll
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/bin/Debug/net8.0/Intro.pdb
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/Intro.AssemblyInfoInputs.cache
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/Intro.AssemblyInfo.cs
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/Intro.csproj.CoreCompileInputs.cache
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/Intro.dll
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/refint/Intro.dll
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/Intro.pdb
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/Intro.genruntimeconfig.cache
+/Users/muratsivil/KodlamaIO/ConsoleProject/Intro/obj/Debug/net8.0/ref/Intro.dll
